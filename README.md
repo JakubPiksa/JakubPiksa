@@ -2,7 +2,7 @@
 
 ### 💼 React Developer | Founder @ O&K softDev | Passionate about web technologies
 
-Welcome to my GitHub! I specialize in **React.js** and modern web development, with a growing interest in backend technologies. My goal is to create clean, efficient, and user-friendly applications while continuously learning and improving my skills.
+Welcome to my GitHub! I specialize in **React.js** and modern web development, with a growing interest in backend and mobile technologies. My goal is to create clean, efficient, and user-friendly applications while continuously learning and improving my skills.
 
 ---
 
