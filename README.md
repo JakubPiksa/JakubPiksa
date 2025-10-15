@@ -29,9 +29,9 @@ I’m also working on personal projects and experiments, which I will share here
 - Acquire new clients and work on exciting projects  
 - Build a SaaS application that brings innovative solutions to the market  
 
-## 📊 GitHub Stats
+## 📊 Most Used languages:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubPiksa&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=JakubPiksa&show_icons=true&hide_title=true&count_private=true&hide=prs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubpiksa&layout=compact&hide=html))
 
 ---
 
