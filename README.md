@@ -8,7 +8,7 @@ Welcome to my GitHub! I specialize in **React.js** and modern web development, w
 
 ## 🚀 My Projects
 
-Most of my **commercial projects are available on my company's website** in the [portfolio section](https://oandksoftdev.pl/portfolio).  
+Most of my **commercial projects are available on my company's website** in the [portfolio section](https://oandksoftdev.pl#projects).  
 
 I’m also working on personal projects and experiments, which I will share here soon.
 
