@@ -32,7 +32,7 @@ I’m also working on personal projects and experiments, which I will share here
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubPiksa&layout=compact&count_private=true&theme=radical&hide=html,css)
 ---
 
 ## 📫 Contact Me
