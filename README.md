@@ -17,7 +17,7 @@ I’m also working on personal projects and experiments, which I will share here
 ## 🛠 Technologies I Work With
 
 - **Frontend:** React.js, HTML5, SCSS  
-- **Backend (learning):** Node.js, Express.js  
+- **Backend (learning):** Node.js, Express.js, Supabase 
 - **Mobile:** Flutter, React Native  
 - **Databases:** MongoDB  
 - **Tools:** Git, Docker, Webpack, Babel  
